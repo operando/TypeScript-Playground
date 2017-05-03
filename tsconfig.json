@@ -1,0 +1,8 @@
+{
+  "files": [
+    "sample.ts"
+  ],
+  "compilerOptions": {
+    "target": "es5"
+  }
+}
